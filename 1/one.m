@@ -1,0 +1,5 @@
+input('input a: ')
+b = input('input b: ')
+c = input('input c: ')
+disp('Tong la: ')
+disp(a + b + c)
